@@ -1,3 +1,2 @@
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+Birthday reminder app. 
+Created following the toutorial: Code 15 React Projects by John Smilga
